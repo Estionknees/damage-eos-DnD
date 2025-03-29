@@ -1,3 +1,5 @@
+# THIS IS A FORK TO USE IN MY DND CAMPAGIN
+
 # damage-eos
 [![Deployment](https://github.com/UsernameFodder/damage-eos/actions/workflows/deploy.yml/badge.svg)](https://usernamefodder.github.io/damage-eos/)
 [![GitHub](https://img.shields.io/github/license/usernamefodder/damage-eos)](LICENSE.txt)
